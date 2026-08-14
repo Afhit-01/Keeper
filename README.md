@@ -65,6 +65,3 @@ The app will open in your browser at `http://localhost:3000`
 2. **View Notes**: Your notes will appear below the input area
 3. **Delete a Note**: Click the delete button on any note to remove it
 
-## Author
-
-Created as a learning project for React fundamentals with Angela Yu's ReactJS course.
