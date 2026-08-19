@@ -1,3 +1,5 @@
+import { Highlight as HighlightIcon } from "@mui/icons-material";
+
 const Header = () => {
   return (
     <>
